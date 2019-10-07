@@ -1,0 +1,13 @@
+/*
+Estos son los estilos del html
+*/
+body{
+  font-size: 16px;
+}
+h1{
+  color: green;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+  font-family: "Open Sans", sans-serif;
+}
