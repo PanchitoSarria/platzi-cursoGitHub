@@ -8,3 +8,5 @@ Hoy hablaremos de su historia de vida y obra maestra!
 esto es una práctica de git
 
 mis primeros pasos
+
+voy a probar el git reset HEAD
