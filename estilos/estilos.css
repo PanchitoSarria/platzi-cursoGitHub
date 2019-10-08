@@ -12,6 +12,9 @@ body{
   padding: 1em;
   margin: 1em auto;
 }
+#cabecera{
+  font-size: 1.2em;
+}
 h1{
   font-size: 2em;
 }
