@@ -18,3 +18,7 @@ h1{
 p{
   font-family: "Open Sans", sans-serif;
 }
+.masterNewStyle{
+  color: lightblue;
+  font-weight: 600;
+}
