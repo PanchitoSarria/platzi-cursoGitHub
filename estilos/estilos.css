@@ -8,17 +8,33 @@ body{
   font-family: 'Arial';
 }
 #container{
-  widows: 70%;
-  padding: 1em;
-  margin: 1em auto;
+  width: 50%;
+  margin: 2em auto;
+  border: #3b3b3b solid 1px;
+}
+#cabecera{
+  font-size: 1.2em;
+  font-weight: 600;
+  background: #33a;
+  color: #fff;
+  padding: 0.5em;
 }
 h1{
+  padding: 20px;
   font-size: 2em;
 }
 p{
+  padding: 20px;
   font-family: "Open Sans", sans-serif;
 }
 .masterNewStyle{
   color: lightblue;
+}
+footer{
+  padding: 2em 0;
+  background: deeppink;
+  color: #fff;
+  text-align: center;
+  font-size: 2em;
   font-weight: 600;
 }
