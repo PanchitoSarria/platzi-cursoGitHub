@@ -13,7 +13,7 @@ body{
   border: #3b3b3b solid 1px;
 }
 #cabecera{
-  font-size: 1.2em;
+  font-size: 2.5em;
   font-weight: 600;
   background: #33a;
   color: #fff;
@@ -37,4 +37,10 @@ footer{
   text-align: center;
   font-size: 2em;
   font-weight: 600;
+}
+
+#logo-header{
+  width: 70px;
+  height: auto;
+  vertical-align: middle;
 }
